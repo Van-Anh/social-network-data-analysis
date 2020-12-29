@@ -29,12 +29,12 @@ Students:  Le Thanh Van Anh, Karataeva Azhar
     - Best model ROC AUC - 0.55
 
 ## Summary
-We trained the models with best results: 
-    - Classifiers on static features – 0.65
-    - Classifiers on the concatenation of static features and Node2Vec embeddings – 0.55
-    - Classifiers on embeddings Node2Vec – 0.52
+We trained the models with best results:
+   - Classifiers on static features – 0.65
+   - Classifiers on the concatenation of static features and Node2Vec embeddings – 0.55
+   - Classifiers on embeddings Node2Vec – 0.52
 
 ## Future work
-   - Get more users 
-   - Collect other information such as followers, subscriptions, public pages, …
+   - Get more users
+   - Collect other information such as followers, subscriptions, public pages,
    - Collect and add image recognition
